@@ -26,12 +26,14 @@ Syncs your Fuzzy Tad Alt to your main account whenever your Main account uses a 
 - **6. Open VS Code and drag the folder into VS Code**. 
 
 - **7. Click on the .env file**. Replace `YOUR_DISCORD_TOKEN` with the token of the bot you just created**.
-  - You will find it here: ![image](https://github.com/user-attachments/assets/d703420a-2adc-4b34-9d4a-8a758e362b02)
-- **8. Click the index.js file**. Replace the `YOUR_CHANNEL_ID` with the channel ID of your alt. You will find it here: ![image](https://github.com/user-attachments/assets/8e18a0d7-44df-4d49-b654-fe7d9ad00df9)
- 
+  - You will find it here: ![image](https://github.com/user-attachments/assets/0821f9c1-5bc1-40a3-909c-db428bc650f3)
+    
+- **8. Click the index.js file**. Replace the `YOUR_CHANNEL_ID` with the channel ID of your alt. You will find it here: ![image](https://github.com/user-attachments/assets/d29917da-f95d-42e4-ac8e-9cedc6843128)
 
+ 
 - **9. Run the code**. You can do this by either creating a new terminal via VS Code and typing `node index.js` or opening cmd and typing `cd (path to folder)`, press enter, then `node index.js` and then if all goes well, after press enter you should get `Bot is online` and in 60 seconds, it will tell your alt to go to Pine Tree with the pattern Supercat.
+  
 - **(for one tad alt users)**, you can set the Pine Tree pattern to PineSkirt by press CTRL+H then doing this and pressing the button that's circled
-  ![image](https://github.com/user-attachments/assets/49968655-2e4c-4cfa-813f-8261dd700ae3)
+  ![image](https://github.com/user-attachments/assets/cae953b4-a449-429e-ae63-cdbd192bf037)
 
   # This is a work in progress, so please help me make this better, all help will be appreciated, if you need help or want to suggest something, my discord is leon123gamer
