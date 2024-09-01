@@ -1,5 +1,7 @@
 # Tad-Alt-Sync
-Syncs your Fuzzy Tad Alt to your main account whenever your Main account uses a Field Booster
+Syncs your Fuzzy Tad Alt to your main account whenever your Main account uses a Field Booster. 
+
+  **THIS IS ONLY FOR ENDGAME BLUE HIVES WITH FUZZY TAD ALT.**
 
 
 ## Installation
